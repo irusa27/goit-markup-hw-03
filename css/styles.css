@@ -106,7 +106,6 @@ img {
 
 .header-container {
   display: flex;
-  column-gap: 332px;
   justify-content: space-between;
 }
 
