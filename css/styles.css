@@ -253,7 +253,8 @@ img {
   width: calc((100% - 72px) / 4);
 }
 
-.list-text {
+/* .list-text */
+.features-text {
   margin-top: 8px;
 }
 
